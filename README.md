@@ -16,6 +16,10 @@ https://github.com/johny-c/pylmnn/blob/master/pylmnn/lmnn.py
 http://www.cs.toronto.edu/~hinton/absps/nca.pdf
 https://github.com/jhseu/nca
 
+#### PyDML
+https://pydml.readthedocs.io/en/latest/index.html
+
+
 ### Maths
 Mahalanobis distance
 https://www.machinelearningplus.com/statistics/mahalanobis-distance/
