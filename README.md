@@ -1,5 +1,7 @@
 # Profile Similarity
 
+https://cognitivescale.atlassian.net/wiki/spaces/CPA/pages/858652881/Profile+Similarity
+
 ### Links
 
 #### Metric Learn
